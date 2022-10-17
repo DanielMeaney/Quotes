@@ -1,0 +1,36 @@
+const LocalQuotes = [
+{
+text: "You can do anything, but not everything.",
+author: "David Allen"
+},
+{
+text: "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+author: "Antoine de Saint-Exupéry"
+},  
+{
+text: "You miss 100 percent of the shots you never take.",
+author: "Wayne Gretzky"
+},  
+{
+text: " Courage is not the absence of fear, but rather the judgement that something else is more important than fear.",
+author: "Ambrose Redmoon"
+}, 
+const LocalQuotes = [
+{
+text: "You can do anything, but not everything.",
+author: "David Allen"
+},
+{
+text: "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+author: "Antoine de Saint-Exupéry"
+},  
+{
+text: "You miss 100 percent of the shots you never take.",
+author: "Wayne Gretzky"
+},  
+{
+text: " Courage is not the absence of fear, but rather the judgement that something else is more important than fear.",
+author: "Ambrose Redmoon"
+},  
+]
+]
